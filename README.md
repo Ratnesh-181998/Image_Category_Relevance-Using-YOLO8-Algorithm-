@@ -82,3 +82,5 @@ approach minimizes the need for post-upload corrections, improving operational e
 
 
 
+![Unstructured data analysis - Image Category relevance jpg](https://github.com/user-attachments/assets/e2b4b379-574e-4b6a-bd25-3bd8d21ce71e)
+
