@@ -84,3 +84,21 @@ approach minimizes the need for post-upload corrections, improving operational e
 
 ![Unstructured data analysis - Image Category relevance jpg](https://github.com/user-attachments/assets/e2b4b379-574e-4b6a-bd25-3bd8d21ce71e)
 
+
+Integration & API: Developed and integrated using FlaskAPI.
+
+Input: Solution requires category name as input and solution performs
+
+<img width="1251" height="578" alt="image" src="https://github.com/user-attachments/assets/6cdd7f78-6107-455b-9691-5d072537b9a1" />
+
+Output: Showcases, if all features are present in the product ID’s.   
+
+<img width="1429" height="367" alt="image" src="https://github.com/user-attachments/assets/f4fd5eea-cf52-4083-ad7f-8dc30faa67a7" />
+
+<img width="1258" height="618" alt="image" src="https://github.com/user-attachments/assets/8b5b9bb2-537d-4547-ba8b-9263fecdef09" />
+
+
+
+
+
+
